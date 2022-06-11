@@ -1,0 +1,5 @@
+Anotações importantes sobre o curso introdutório GIT e GITHUB
+
+Git é um terminal extendido para otimizar o uso do Git.
+Git Hub é uma plataforma de hospedagem e versionamento de código fonte e arquivos de controle de versão.
+
